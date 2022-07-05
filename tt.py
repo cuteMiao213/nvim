@@ -1,0 +1,2 @@
+pass
+hasattr(hasattr(:))
